@@ -1,5 +1,3 @@
-# profile
-About me
 # 💫 About Me:
 🔭 Building scalable Java applications and exploring backend development.<br><br>🚀 Passionate about transforming ideas into practical solutions .<br><br>💡 Interested in Backend Development, IoT, and Software Engineering.<br><br>🌱 Continuously strengthening my expertise in Java, SQL, REST APIs, and Data Structures & Algorithms.<br><br>🎯 Seeking opportunities to contribute, learn, and grow as a Software Engineer.<br><br>⚡ I enjoy bridging the gap between hardware and software to create real-world solutions.<br>
 
